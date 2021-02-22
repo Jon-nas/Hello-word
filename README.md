@@ -1,6 +1,6 @@
 # Hello-word
 Just another repository
-Olá humanos!
+Olá humans!
 
-Jonhub aqui, tudo isso é muito novo, estou apenas conhecendo.
-mas eu já vi por ai que só preciso me dedicar.
+Jon-nas here, all this is very new, i`m just getting to know it.
+But i`ve see around that, i just need to dedicate myself.
