@@ -1,4 +1,4 @@
-# Hello-word
+# Hello-world
 Just another repository
 Olá humans!
 
